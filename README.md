@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TaniQuiroga
+- 👀 I’m interested in everything about the world of programming and kittens.
+- 🌱 I’m currently learning how to use GitHub, Javascript, HTML, CSS. Through the #ArgentinaPrograma program.
+- 📫 How to reach me ... you can contact me by e-mail <tani.quiroga@gmail.com>
